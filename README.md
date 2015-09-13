@@ -61,4 +61,4 @@ main_menu.add_option("q", false, "Quit", [{ rule: lambda {true}, on_invalid: lam
 
 As shown, the Menu.handle_input_prompt method is called inside the add_option event handler for the 'q' keypress event.
 
-The Thug Lorz game heavily depends upon the structure this menu system provides, which made the development of the game very simple and easy.  Refer to the game's source code for examples in how the menu system can be used for nested menus.
+The Thug Lorz game heavily depends upon the structure this menu system provides, which made the development of the game quick and easy.  Refer to the game's source code for examples in how the menu system can be used for nested menus.
