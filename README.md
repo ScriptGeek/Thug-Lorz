@@ -3,6 +3,8 @@ Drug Wars clone written in Ruby for the command-line console
 
 This video game was inspired by my curiosity to learn the Ruby programming language.
 
+To run the program, in the Ruby console, type: ruby game.rb
+
 The implementation relies heavily upon a menu system, which was developed from scratch.  I've never created a command-line console menu system before so I put some thought into creating something robust yet minimalistic.  By capitalizing upon the powerful lambda expression this vital component was easily composed into something that can be used for any command-line interface from very simple menus to extremely complex nested menu structures.  This system incorporates user input validation and custom event handling for precise management of program flow with minimal involvement of menu related details.  Here's a quick blurb on how to use the Menu class to quickly and easily create a simple non-nested menu in a command-line driven program:
 
 
