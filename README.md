@@ -1,5 +1,5 @@
 # Thug-Lorz
-![alt text](https://github.com/ScriptGeek/Thug-Lorz/ThugLorzLogo.png "Logo Title Text 1")
+![GitHub Logo](ThugLorzLogo.png)
 
 Drug Wars clone written in Ruby for the command-line console
 
