@@ -1,5 +1,5 @@
-# Thug-Lorz
-![GitHub Logo](ThugLorzLogo.png)
+![GitHub Logo](ThugLorzLogo.png) # Thug-Lorz
+
 
 Drug Wars clone written in Ruby for the command-line console
 
