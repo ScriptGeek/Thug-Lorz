@@ -1,4 +1,6 @@
 # Thug-Lorz
+![alt text](https://github.com/ScriptGeek/Thug-Lorz/ThugLorzLogo.png "Logo Title Text 1")
+
 Drug Wars clone written in Ruby for the command-line console
 
 This video game was inspired by my curiosity to learn the Ruby programming language.
